@@ -1,0 +1,15 @@
+{
+  "Components.Login.SignIn": "Sign In",
+  "Components.Login.Email": "Email",
+  "Components.Login.Password": "Password",
+  "Components.Login.Message": "Use your email address to sign in",
+  "Components.Accounts.Table.Search": "Search",
+  "Account.Edit.Title": "Edit account",
+  "Account.Edit.Form.Name": "Name",
+  "Account.Edit.Form.Phone": "Phone number",
+  "Account.Edit.Form.Fax": "Fax",
+  "Account.Edit.Form.Zip": "Zip code",
+  "Account.Edit.Form.Country": "Country",
+  "Account.Edit.Form.Cancel": "Cancel",
+  "Account.Edit.Form.Save": "Save"
+}
